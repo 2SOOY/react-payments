@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.80072685.chunk.css",
-    "main.js": "/static/js/main.386d6bf5.chunk.js",
-    "main.js.map": "/static/js/main.386d6bf5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0250c6c4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0250c6c4.js.map",
-    "static/js/2.6d779f4f.chunk.js": "/static/js/2.6d779f4f.chunk.js",
-    "static/js/2.6d779f4f.chunk.js.map": "/static/js/2.6d779f4f.chunk.js.map",
-    "static/js/3.ab6fc60a.chunk.js": "/static/js/3.ab6fc60a.chunk.js",
-    "static/js/3.ab6fc60a.chunk.js.map": "/static/js/3.ab6fc60a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.80072685.chunk.css.map": "/static/css/main.80072685.chunk.css.map",
-    "static/js/2.6d779f4f.chunk.js.LICENSE.txt": "/static/js/2.6d779f4f.chunk.js.LICENSE.txt",
-    "static/media/backbutton.750d95a9.svg": "/static/media/backbutton.750d95a9.svg",
-    "static/media/cvc-help.7e7d3191.svg": "/static/media/cvc-help.7e7d3191.svg",
-    "static/media/cvc_guide.65857a27.png": "/static/media/cvc_guide.65857a27.png",
-    "static/media/secure-ellipse-cyan.d63eaa38.svg": "/static/media/secure-ellipse-cyan.d63eaa38.svg",
-    "static/media/secure-ellipse.f30a0082.svg": "/static/media/secure-ellipse.f30a0082.svg"
+    "main.css": "/react-payments/static/css/main.80072685.chunk.css",
+    "main.js": "/react-payments/static/js/main.3022ba5c.chunk.js",
+    "main.js.map": "/react-payments/static/js/main.3022ba5c.chunk.js.map",
+    "runtime-main.js": "/react-payments/static/js/runtime-main.f8dd8ace.js",
+    "runtime-main.js.map": "/react-payments/static/js/runtime-main.f8dd8ace.js.map",
+    "static/js/2.ac8e42aa.chunk.js": "/react-payments/static/js/2.ac8e42aa.chunk.js",
+    "static/js/2.ac8e42aa.chunk.js.map": "/react-payments/static/js/2.ac8e42aa.chunk.js.map",
+    "static/js/3.ab6fc60a.chunk.js": "/react-payments/static/js/3.ab6fc60a.chunk.js",
+    "static/js/3.ab6fc60a.chunk.js.map": "/react-payments/static/js/3.ab6fc60a.chunk.js.map",
+    "index.html": "/react-payments/index.html",
+    "static/css/main.80072685.chunk.css.map": "/react-payments/static/css/main.80072685.chunk.css.map",
+    "static/js/2.ac8e42aa.chunk.js.LICENSE.txt": "/react-payments/static/js/2.ac8e42aa.chunk.js.LICENSE.txt",
+    "static/media/backbutton.750d95a9.svg": "/react-payments/static/media/backbutton.750d95a9.svg",
+    "static/media/cvc-help.7e7d3191.svg": "/react-payments/static/media/cvc-help.7e7d3191.svg",
+    "static/media/cvc_guide.65857a27.png": "/react-payments/static/media/cvc_guide.65857a27.png",
+    "static/media/secure-ellipse-cyan.d63eaa38.svg": "/react-payments/static/media/secure-ellipse-cyan.d63eaa38.svg",
+    "static/media/secure-ellipse.f30a0082.svg": "/react-payments/static/media/secure-ellipse.f30a0082.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0250c6c4.js",
-    "static/js/2.6d779f4f.chunk.js",
+    "static/js/runtime-main.f8dd8ace.js",
+    "static/js/2.ac8e42aa.chunk.js",
     "static/css/main.80072685.chunk.css",
-    "static/js/main.386d6bf5.chunk.js"
+    "static/js/main.3022ba5c.chunk.js"
   ]
 }
